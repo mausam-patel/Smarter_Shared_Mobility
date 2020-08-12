@@ -16,8 +16,8 @@ to the page of the original project from which this one was inspired, can be fou
 
 
 
-# Original CitibikeAnalysis From Vinit Shah [Can be Found Here] https://github.com/vinit28/CitibikeAnalysis
-Citibike Analysis for Data Science Certification
+# Original CitibikeAnalysis From Vinit Shah 
+Citibike Analysis for Data Science Certification [Can be Found Here] https://github.com/vinit28/CitibikeAnalysis
 
 Overview:
 
