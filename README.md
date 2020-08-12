@@ -1,4 +1,22 @@
-# CitibikeAnalysis
+# Tech + Research: Technica Hackthon 2019 Research Project
+Citi Bike Analysis for investigating smarter shared mobility methods by applying predictive models
+
+Tech + Research is a program where selected students can work with a professor to explore a research area through an applied project. 
+
+This project involves quarterly trip data from Citi Bike (as described below). The scope of this project was to analyze the provided data and Vinit Shah's
+previous work and analysis of the data, and to identify new opportunities for analysis and insight. We decided to move forward by using regressions, predictive 
+models, and neural network concepts and tools (such as the MLPClassifier) to predict the most popular stations and bike shortages by time of day. Thus, we could 
+recommend to the company that they can leverage the self-driving feature of the bikes and their apps to redistribute bikes based on which stations have 
+shortages or where demand is the highest (most popular stations). We also accurately created a model to predict the most popular gender at a given station at a 
+certain time with over 90% accuracy. We could recommend that the company could use this information to specialize ads at the stations based on these demographics. 
+
+Work was conducted in Jupyter Notebook and tools just as Pandas and scikit-learn were used to complete this analysis. The original ReadMe, as well as the link 
+to the page of the original project from which this one was inspired, can be found below. 
+
+
+
+
+# Original CitibikeAnalysis From Vinit Shah [Can be Found Here] https://github.com/vinit28/CitibikeAnalysis
 Citibike Analysis for Data Science Certification
 
 Overview:
