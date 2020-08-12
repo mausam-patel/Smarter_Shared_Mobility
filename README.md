@@ -25,17 +25,17 @@ Your client, The Mayor of New York City, needs a better understanding of Citi Bi
 
 Luckily, Citi Bike publishes quarterly trip data available for you to download and analyze. The data includes:
 
-•	Trip Duration (seconds)
-•	Start Time and Date
-•	Stop Time and Date
-•	Start Station Name
-•	End Station Name
-•	Station ID
-•	Station Lat/Long
-•	Bike ID
-•	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-•	Gender (Zero=unknown; 1=male; 2=female)
-•	Year of Birth
+*	Trip Duration (seconds)
+*	Start Time and Date
+*	Stop Time and Date
+*	Start Station Name
+*	End Station Name
+*	Station ID
+*	Station Lat/Long
+* Bike ID
+*	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+*	Gender (Zero=unknown; 1=male; 2=female)
+*	Year of Birth
 
 Specifically, the Mayor wants to see a variety of data visualizations to understand
 1)	Top 5 stations with the most starts (showing # of starts)
